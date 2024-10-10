@@ -1,0 +1,11 @@
+H:\winform\WinFormsApp1\ClassLibrary1\bin\Debug\net6.0\PubModel.deps.json
+H:\winform\WinFormsApp1\ClassLibrary1\bin\Debug\net6.0\PubModel.dll
+H:\winform\WinFormsApp1\ClassLibrary1\bin\Debug\net6.0\PubModel.pdb
+H:\winform\WinFormsApp1\ClassLibrary1\obj\Debug\net6.0\PubModel.GeneratedMSBuildEditorConfig.editorconfig
+H:\winform\WinFormsApp1\ClassLibrary1\obj\Debug\net6.0\PubModel.AssemblyInfoInputs.cache
+H:\winform\WinFormsApp1\ClassLibrary1\obj\Debug\net6.0\PubModel.AssemblyInfo.cs
+H:\winform\WinFormsApp1\ClassLibrary1\obj\Debug\net6.0\PubModel.csproj.CoreCompileInputs.cache
+H:\winform\WinFormsApp1\ClassLibrary1\obj\Debug\net6.0\PubModel.dll
+H:\winform\WinFormsApp1\ClassLibrary1\obj\Debug\net6.0\refint\PubModel.dll
+H:\winform\WinFormsApp1\ClassLibrary1\obj\Debug\net6.0\PubModel.pdb
+H:\winform\WinFormsApp1\ClassLibrary1\obj\Debug\net6.0\ref\PubModel.dll

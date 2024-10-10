@@ -1,0 +1,15 @@
+H:\winform\WinFormsApp1\JobLibary\bin\Debug\net6.0\JobLibary.deps.json
+H:\winform\WinFormsApp1\JobLibary\bin\Debug\net6.0\JobLibary.dll
+H:\winform\WinFormsApp1\JobLibary\bin\Debug\net6.0\JobLibary.pdb
+H:\winform\WinFormsApp1\JobLibary\bin\Debug\net6.0\PubModel.dll
+H:\winform\WinFormsApp1\JobLibary\bin\Debug\net6.0\PubModel.pdb
+H:\winform\WinFormsApp1\JobLibary\obj\Debug\net6.0\JobLibary.csproj.AssemblyReference.cache
+H:\winform\WinFormsApp1\JobLibary\obj\Debug\net6.0\JobLibary.GeneratedMSBuildEditorConfig.editorconfig
+H:\winform\WinFormsApp1\JobLibary\obj\Debug\net6.0\JobLibary.AssemblyInfoInputs.cache
+H:\winform\WinFormsApp1\JobLibary\obj\Debug\net6.0\JobLibary.AssemblyInfo.cs
+H:\winform\WinFormsApp1\JobLibary\obj\Debug\net6.0\JobLibary.csproj.CoreCompileInputs.cache
+H:\winform\WinFormsApp1\JobLibary\obj\Debug\net6.0\JobLibary.csproj.CopyComplete
+H:\winform\WinFormsApp1\JobLibary\obj\Debug\net6.0\JobLibary.dll
+H:\winform\WinFormsApp1\JobLibary\obj\Debug\net6.0\refint\JobLibary.dll
+H:\winform\WinFormsApp1\JobLibary\obj\Debug\net6.0\JobLibary.pdb
+H:\winform\WinFormsApp1\JobLibary\obj\Debug\net6.0\ref\JobLibary.dll
